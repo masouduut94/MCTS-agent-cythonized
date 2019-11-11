@@ -25,7 +25,9 @@ The image above shows the basic framework
 The image above shows the Cython framework. Obviously number of simulations shows the
  big difference between the cython and python versions.
 
-Video Tutorial
+## Video Tutorial
+
+Watch the video tutorial for running the game in [here](https://youtu.be/MNA5cokYwLs)
 
 # Requirements
 1- Operational System: linux (ubuntu is preferable)
