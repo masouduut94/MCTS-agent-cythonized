@@ -16,11 +16,11 @@ Intelligence (AI) approaches for domains that can be represented as trees of seq
  decisions, particularly games and planning problems. In this project I used different 
  simulation strategies to enhance the agent policy to explore the environment.
 
-// ![alt text](https://github.com/masouduut94/MCTS-agent-cythonized/tree/master/images/RAVE-python-version.png)
+![alt text](./images/RAVE-python-version.png)
 
 The image above shows the basic framework
 
-// ![alt text](https://github.com/masouduut94/MCTS-agent-cythonized/tree/master/images/RAVE-python-version.png)
+![alt text](./images/RAVE-python-version.png)
 
 The image above shows the Cython framework. Obviously number of simulations shows the
  big difference between the cython and python versions
