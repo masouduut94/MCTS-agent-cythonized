@@ -20,10 +20,10 @@ Intelligence (AI) approaches for domains that can be represented as trees of seq
 
 The image above shows the basic framework
 
-![alt text](./images/RAVE-python-version.png)
+![alt text](./images/RAVE-cython-version.png)
 
 The image above shows the Cython framework. Obviously number of simulations shows the
- big difference between the cython and python versions
+ big difference between the cython and python versions.
 
 Video Tutorial
 
