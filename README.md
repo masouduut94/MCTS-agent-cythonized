@@ -86,8 +86,16 @@ Trans. Comput. Intell. AI GAMES, vol. 4, no. 2, pp. 73–83, 2012.
 J.-B. Hoock, C.-S. Lee, A. Rimmel, F. Teytaud, O. Teytaud, and M.-H. Wang, 
 “Intelligent Agents for the Game of Go,” IEEE Comput. Intell. Mag., vol. 5, no. 4, pp. 28–42, 2010.
 
-I also will implement the threading-based Agent later.
+There still exist plenty of other references which I just mention the names for now.
 
+## HRAVE 2017 Chiara sironi et al
+
+## GRAVE 2017 Chiara sironi et al
+
+## Quality-Based Rewards 2014 Marc Winands et al
+
+I also implemented the threading-based Agent in python but due to GIL it did not work as expected.
+There still exist hope to use NOGIL command in cython but I have not gone through this one yet.
 
 In the Graphiacl user interface you can set the time for agent to search.
 
